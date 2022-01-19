@@ -1,0 +1,51 @@
+City,Restaurant ID,Restaurant Name,Order Time
+Ann Arbor,a4c22b51-1e46-4d5e-9d37-385759a3c3a5,The Jagged Fork,2021-10-03 18:14:51
+Ann Arbor,480bb4f4-4944-4fb2-bcd8-dd76dfe58f48,McDonald's® (State & State),2021-09-12 22:33:18
+Cincinnati,2ac900af-12ad-46aa-9bc1-7960ab3261cc,McDonald's® (Philadelphia & 3rd St),2021-09-02 12:10:34
+Cincinnati,b9326a5a-e7dc-4968-b6f1-4835af890638,First Watch (Cincinnati),2021-08-24 15:19:41
+Chicago,6ba078e9-ed83-4628-915a-eb87b056f19b,Sharks Fish And Chicken (147 And Kedzie),2021-08-17 19:57:47
+Cincinnati,2ac900af-12ad-46aa-9bc1-7960ab3261cc,McDonald's® (Philadelphia & 3rd St),2021-07-30 13:34:10
+Cincinnati,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,IHOP (Pavilion Pkwy),2021-07-29 15:32:45
+Cincinnati,7ebcad95-0803-460d-a96e-3718defa27d7,Fusabowl (Cincinnati),2021-07-20 18:17:54
+Cincinnati,2ac900af-12ad-46aa-9bc1-7960ab3261cc,McDonald's® (Philadelphia & 3rd St),2021-07-15 10:39:51
+Chicago,ab7c5582-09f8-4722-acb9-ae42330ef631,Harold's Chicken (Cicero & 137th St),2021-06-23 20:51:35
+Chicago,44e673ce-b471-44c7-bca1-22c4ab3abbe0,The Original Pancake House (5140 159th St),2021-06-14 17:09:29
+Cincinnati,5010dd17-3663-4075-9aeb-95dc88ab8cf4,Popeyes (502 Main St),2021-06-09 20:29:46
+Cincinnati,d59ed6bf-44e2-41b3-8cd1-957375f22c10,Popeyes (7131 Reading Rd),2021-05-24 00:23:37
+Cincinnati,8ba6aaa3-1a0f-409c-984e-a0fd51d7461a,Alabama Que,2021-05-21 20:04:43
+Cincinnati,2ac900af-12ad-46aa-9bc1-7960ab3261cc,McDonald's® (Philadelphia & 3rd St),2021-05-20 13:58:42
+Chicago,009a1495-cb05-4b3d-9cbd-94f161f2c440,McDonald's® (Dixie & 147th St),2021-05-14 14:23:19
+Chicago,6ba078e9-ed83-4628-915a-eb87b056f19b,Sharks Fish And Chicken (147 And Kedzie),2021-05-06 17:37:34
+Chicago,f71ae286-9969-4f93-a119-5513aa1b5793,Italian Fiesta Pizzeria (15425 Cottage Grove Ave),2021-05-04 17:46:05
+Cincinnati,25e66693-4c2a-48aa-9997-89e4109af31e,Eli's BBQ,2021-04-26 19:28:03
+Cincinnati,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,IHOP (Pavilion Pkwy),2021-04-24 17:25:46
+Chicago,6ba078e9-ed83-4628-915a-eb87b056f19b,Sharks Fish And Chicken (147 And Kedzie),2021-04-13 15:10:09
+Cincinnati,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,IHOP (Pavilion Pkwy),2021-04-11 17:49:09
+Chicago,0749a156-93ec-4a43-bb28-c249d91c31f5,Harold’s Chicken Shack (12700 S Halsted St) 35,2021-04-03 19:34:08
+Chicago,3efac157-8d0e-4551-8ae1-2954a8a04f82,I-57 Smoke House,2021-04-03 19:30:08
+Chicago,44e673ce-b471-44c7-bca1-22c4ab3abbe0,The Original Pancake House (5140 159th St),2021-03-30 17:27:49
+Cincinnati,b68ea90d-88c2-4fd9-8492-5f7719687c6d,Mazunte Centro,2021-03-12 22:41:24
+Cincinnati,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,IHOP (Pavilion Pkwy),2021-03-12 16:33:29
+Cincinnati,59fc6681-97e1-4f73-bc01-64aecdddc09e,McDonald's® (Winston & 38th St),2021-03-12 02:29:12
+Cincinnati,da5972c5-f905-4e97-b90d-50eb61bbfe0b,Eli's BBQ at Findlay Market,2021-03-06 20:11:07
+Cincinnati,e11e08d5-c545-4af7-a406-d59fbab2c7da,Dunkin' (425 Walnut St),2021-02-23 16:23:09
+Cincinnati,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,IHOP (Pavilion Pkwy),2021-02-14 18:13:24
+Cincinnati,5f59434b-8765-49e5-9ec0-fd177f4c7f2e,Hooters (Houston Rd & Banker St),2021-02-07 22:25:57
+Cincinnati,2ac900af-12ad-46aa-9bc1-7960ab3261cc,McDonald's® (Philadelphia & 3rd St),2021-02-03 20:51:01
+Cincinnati,5010dd17-3663-4075-9aeb-95dc88ab8cf4,Popeyes (502 Main St),2021-02-02 00:15:23
+Cincinnati,6b97a050-0ec9-46bd-bc96-803a1c13b6a9,Krispy Kreme (Beechmont Ave & King Louie Ct),2021-02-01 19:29:00
+Cincinnati,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,IHOP (Pavilion Pkwy),2021-01-25 18:05:15
+Chicago,44e673ce-b471-44c7-bca1-22c4ab3abbe0,The Original Pancake House (5140 159th St),2021-01-21 16:30:52
+Chicago,6ba078e9-ed83-4628-915a-eb87b056f19b,Sharks Fish And Chicken (147 And Kedzie),2021-01-07 00:06:21
+Chicago,44e673ce-b471-44c7-bca1-22c4ab3abbe0,The Original Pancake House (5140 159th St),2021-01-05 16:16:07
+Chicago,0749a156-93ec-4a43-bb28-c249d91c31f5,Harold’s Chicken Shack (12700 S Halsted St) 35,2020-12-29 01:18:10
+Chicago,44e673ce-b471-44c7-bca1-22c4ab3abbe0,The Original Pancake House (5140 159th St),2020-12-15 18:20:04
+Cincinnati,5010dd17-3663-4075-9aeb-95dc88ab8cf4,Popeyes (502 Main St),2020-11-22 00:12:29
+Cincinnati,56d23630-6277-4201-a140-49fb901f46c4,"TGI Fridays (1814 - CINCINNATI/TURKEYFOOT, KY)",2020-11-14 01:11:45
+Cincinnati,6b97a050-0ec9-46bd-bc96-803a1c13b6a9,Krispy Kreme (Beechmont Ave & King Louie Ct),2020-11-13 18:54:13
+Cincinnati,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,IHOP (Pavilion Pkwy),2020-09-19 16:57:23
+Chicago,1c761396-a043-4a74-9807-18b0de5dfc4b,McDonald's® (Harlem & Argyle),2020-08-08 06:58:10
+Cincinnati,8ba6aaa3-1a0f-409c-984e-a0fd51d7461a,Alabama Que,2020-05-16 20:55:32
+Ann Arbor,5c2c4b81-9d60-46c0-a405-fc8756a2b587,Wings Shack (VR),2019-12-16 00:49:00
+Ann Arbor,5c2c4b81-9d60-46c0-a405-fc8756a2b587,Wings Shack (VR),2019-10-29 02:32:24
+Cincinnati,753a56a0-3b11-4894-a622-82316ba8fcf1,White Castle (5075 Montgomery Rd.),2019-07-17 21:32:29

@@ -1,0 +1,124 @@
+Territory,Restaurant ID,Order ID,Order Time,Order Status,Item Name,Customizations,Special Instructions,Item Price,Order Price,Currency
+7d,a4c22b51-1e46-4d5e-9d37-385759a3c3a5,30e70a16-35d3-4caa-b864-681f281904c3,2021-10-03 19:18:32 +0000 UTC,completed,Vegetarian,"Pancakes, Over Easy",,15,54.58,USD
+7d,a4c22b51-1e46-4d5e-9d37-385759a3c3a5,30e70a16-35d3-4caa-b864-681f281904c3,2021-10-03 19:18:32 +0000 UTC,completed,Original Buttermilk,,,11,54.58,USD
+7d,a4c22b51-1e46-4d5e-9d37-385759a3c3a5,30e70a16-35d3-4caa-b864-681f281904c3,2021-10-03 19:18:32 +0000 UTC,completed,Breakfast Meat,Sausage,,6,54.58,USD
+7d,a4c22b51-1e46-4d5e-9d37-385759a3c3a5,30e70a16-35d3-4caa-b864-681f281904c3,2021-10-03 19:18:32 +0000 UTC,completed,Side of Eggs,,,6,54.58,USD
+7d,a4c22b51-1e46-4d5e-9d37-385759a3c3a5,30e70a16-35d3-4caa-b864-681f281904c3,2021-10-03 19:18:32 +0000 UTC,completed,Breakfast Meat,Bacon,,6,54.58,USD
+7d,480bb4f4-4944-4fb2-bcd8-dd76dfe58f48,280aa9e0-08a5-4abf-95b6-f263a33fd944,2021-09-12 22:55:39 +0000 UTC,completed,6 Piece McNuggets Meal,"Tangy BBQ Dipping Sauce, Salt, 6 Piece McNuggets Meal, Ice, Medium Sweet Iced Tea",,7.11,16.92,USD
+7d,480bb4f4-4944-4fb2-bcd8-dd76dfe58f48,280aa9e0-08a5-4abf-95b6-f263a33fd944,2021-09-12 22:55:39 +0000 UTC,completed,Cheeseburger,"Mustard, Ketchup, Diced Onions, Pickle, American Cheese, Meat, Regular Bun, Salt",,2.36,16.92,USD
+4d,2ac900af-12ad-46aa-9bc1-7960ab3261cc,c611c544-7c23-4100-a230-4ab10291c40c,2021-09-02 12:56:34 +0000 UTC,completed,Sausage Egg Cheese Biscuit Meal,"Small Minute Maid® Orange Juice, Soft Drinks and Juices, Cold Drinks, More Drinks, American Cheese, Sausage, Folded Egg, Biscuit",,5.89,15.18,USD
+4d,b9326a5a-e7dc-4968-b6f1-4835af890638,2e68d805-ece8-4cf5-8e73-cb9da30a11e0,2021-08-24 16:07:41 +0000 UTC,completed,Pork Sausage,,,4.59,21.56,USD
+4d,b9326a5a-e7dc-4968-b6f1-4835af890638,2e68d805-ece8-4cf5-8e73-cb9da30a11e0,2021-08-24 16:07:41 +0000 UTC,completed,The Trifecta,"Over Well, Bacon, Belgian Waffle",,12.98,21.56,USD
+7,6ba078e9-ed83-4628-915a-eb87b056f19b,38fde5b2-40d3-4f17-a5bc-15c80b52cf7b,2021-08-17 20:29:07 +0000 UTC,completed,6 Wings and Fries,"Lemon Pepper, Cup Of Honey BBQ, Mild Sauce",,12.99,18.7,USD
+4d,2ac900af-12ad-46aa-9bc1-7960ab3261cc,56ecebff-4498-4605-91d5-ae74b20232d2,2021-07-30 13:54:31 +0000 UTC,completed,Sausage Egg Cheese Biscuit Meal,"Small Minute Maid® Orange Juice, American Cheese, Sausage, Folded Egg, Biscuit",,5.89,26.52,USD
+4d,2ac900af-12ad-46aa-9bc1-7960ab3261cc,56ecebff-4498-4605-91d5-ae74b20232d2,2021-07-30 13:54:31 +0000 UTC,completed,Bacon Egg Cheese McGriddle Meal,"Small Minute Maid® Orange Juice, American Cheese, 2 Half Strips Bacon, Folded Egg, McGriddle",,6.2,26.52,USD
+4d,2ac900af-12ad-46aa-9bc1-7960ab3261cc,56ecebff-4498-4605-91d5-ae74b20232d2,2021-07-30 13:54:31 +0000 UTC,completed,Sausage Egg Cheese Biscuit,"American Cheese, Sausage, Folded Egg, Biscuit",,3.79,26.52,USD
+4d,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,d456475e-cb69-44ec-a8a2-53a18cf747fb,2021-07-29 16:16:25 +0000 UTC,completed,2 x 2 x 2,"2 Cage-Free Egg Whites, 2 Pork Sausage Links, 2 Original Buttermilk",,8.69,19.69,USD
+4d,7ebcad95-0803-460d-a96e-3718defa27d7,db725075-83c4-4ac4-9ad1-103c93fe3fe9,2021-07-20 18:48:55 +0000 UTC,completed,(10 Pecs) Chicken Roll,,,8.95,22.34,USD
+4d,7ebcad95-0803-460d-a96e-3718defa27d7,db725075-83c4-4ac4-9ad1-103c93fe3fe9,2021-07-20 18:48:55 +0000 UTC,completed,(10 Pecs) Shrimp Tempura Roll,,,8.95,22.34,USD
+4d,7ebcad95-0803-460d-a96e-3718defa27d7,db725075-83c4-4ac4-9ad1-103c93fe3fe9,2021-07-20 18:48:55 +0000 UTC,completed,Sauces,"Small, Spicy Mayo (Spicy)",,0.45,22.34,USD
+4d,2ac900af-12ad-46aa-9bc1-7960ab3261cc,c8899dce-49b5-4a46-a036-c788abc288e6,2021-07-15 11:19:51 +0000 UTC,completed,Sausage Egg Cheese Biscuit,"American Cheese, Sausage, Folded Egg, Biscuit",,3.79,31.69,USD
+4d,2ac900af-12ad-46aa-9bc1-7960ab3261cc,c8899dce-49b5-4a46-a036-c788abc288e6,2021-07-15 11:19:51 +0000 UTC,completed,Sausage Egg Cheese Biscuit Meal,"Small Minute Maid® Orange Juice, American Cheese, Sausage, Folded Egg, Biscuit",,5.89,31.69,USD
+4d,2ac900af-12ad-46aa-9bc1-7960ab3261cc,c8899dce-49b5-4a46-a036-c788abc288e6,2021-07-15 11:19:51 +0000 UTC,completed,Sausage,,,1.94,31.69,USD
+4d,2ac900af-12ad-46aa-9bc1-7960ab3261cc,c8899dce-49b5-4a46-a036-c788abc288e6,2021-07-15 11:19:51 +0000 UTC,completed,Bacon Egg Cheese McGriddle Meal,"Small Minute Maid® Orange Juice, American Cheese, Bacon, Folded Egg, McGriddle, Round Egg",,6.2,31.69,USD
+7,ab7c5582-09f8-4722-acb9-ae42330ef631,72644cda-324e-4b4a-ab05-d67623b9d313,2021-06-23 21:34:16 +0000 UTC,completed,5  Wing Dinner,Mild Sauce on Top,,9.69,30.71,USD
+7,ab7c5582-09f8-4722-acb9-ae42330ef631,72644cda-324e-4b4a-ab05-d67623b9d313,2021-06-23 21:34:16 +0000 UTC,completed,5  Wing Dinner,Mild Sauce on Top,,9.69,30.71,USD
+7,ab7c5582-09f8-4722-acb9-ae42330ef631,72644cda-324e-4b4a-ab05-d67623b9d313,2021-06-23 21:34:16 +0000 UTC,completed,Large Sauce,Mild Sauce on Side,,2,30.71,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,275e55b7-15b4-4d01-ad61-9787cce02a2c,2021-06-14 18:39:49 +0000 UTC,completed,Bacon and Eggs,"Scrambled Well, Buttermilk Pancakes, Meat Medium",,13.49,45.45,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,275e55b7-15b4-4d01-ad61-9787cce02a2c,2021-06-14 18:39:49 +0000 UTC,completed,Bacon and Eggs,"Scrambled Well, Buttermilk Pancakes, Meat Well",,13.49,45.45,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,275e55b7-15b4-4d01-ad61-9787cce02a2c,2021-06-14 18:39:49 +0000 UTC,completed,Pork Sausage Patties and Eggs,"Scrambled Medium, Buttermilk Pancakes, Meat Well, American Cheese",,12.99,45.45,USD
+4d,5010dd17-3663-4075-9aeb-95dc88ab8cf4,c7ba124d-bbe4-4ba4-b7d0-77ae2416a445,2021-06-09 21:30:06 +0000 UTC,completed,Chicken Combo (4 Pcs),"Spicy, Reg Red Beans and Rice, Coca Cola®",,9.29,26.11,USD
+4d,5010dd17-3663-4075-9aeb-95dc88ab8cf4,c7ba124d-bbe4-4ba4-b7d0-77ae2416a445,2021-06-09 21:30:06 +0000 UTC,completed,Chicken Combo (3 Pcs),"Mild, Leg, Thigh & Wing, Reg Cajun Fries, Chilled Strawberry Premium Lemonade",,9.19,26.11,USD
+4d,d59ed6bf-44e2-41b3-8cd1-957375f22c10,a2f06ffa-f4fe-481b-9dee-ab6da61bcdb2,2021-05-24 01:19:14 +0000 UTC,failed,Chicken Combo (4 Pcs),"Spicy, Reg Cajun Fries, Chilled Premium Lemonade, Reg Homestyle Mac & Cheese",,19.99,33.47,USD
+4d,d59ed6bf-44e2-41b3-8cd1-957375f22c10,a2f06ffa-f4fe-481b-9dee-ab6da61bcdb2,2021-05-24 01:19:14 +0000 UTC,failed,Chicken Combo (3 Pcs),"Mild, Leg, Thigh & Wing, Reg Mashed Potatoes with Cajun Gravy, Chilled Premium Lemonade",,9.19,33.47,USD
+4d,8ba6aaa3-1a0f-409c-984e-a0fd51d7461a,8d29679a-3d94-4503-94b6-fec5814a0de7,2021-05-21 20:46:44 +0000 UTC,completed,Pork Rib Tips,,,8,25.14,USD
+4d,8ba6aaa3-1a0f-409c-984e-a0fd51d7461a,8d29679a-3d94-4503-94b6-fec5814a0de7,2021-05-21 20:46:44 +0000 UTC,completed,Pork Rib Tips,"Mac and Cheese , Yams , Original",,13,25.14,USD
+4d,2ac900af-12ad-46aa-9bc1-7960ab3261cc,743beeb7-2130-4db2-aa61-de607dc2428b,2021-05-20 14:13:22 +0000 UTC,completed,Sausage Egg Cheese Biscuit Meal,"Small Minute Maid® Orange Juice, American Cheese, Sausage, Folded Egg, Biscuit",,5.89,25.09,USD
+4d,2ac900af-12ad-46aa-9bc1-7960ab3261cc,743beeb7-2130-4db2-aa61-de607dc2428b,2021-05-20 14:13:22 +0000 UTC,completed,Bacon Egg Cheese McGriddle Meal,"Small Minute Maid® Orange Juice, American Cheese, Bacon, Folded Egg, McGriddle, Round Egg",,5.99,25.09,USD
+7,009a1495-cb05-4b3d-9cbd-94f161f2c440,e73e7ebd-17c9-44cd-8589-14bb8f2ecc28,2021-05-14 14:52:00 +0000 UTC,completed,Bacon Egg Cheese McGriddle Meal,"Small Minute Maid® Orange Juice, American Cheese, Bacon, Folded Egg, McGriddle, Round Egg",,7.65,18.43,USD
+7,6ba078e9-ed83-4628-915a-eb87b056f19b,85a77261-bcfe-4d76-9dc7-47d23f127598,2021-05-06 18:46:15 +0000 UTC,completed,6 1/2 BBQ Wings Dinner,Honey BBQ,"All flats no drums, lemon pepper and bbq on everything please.",10.99,14.59,USD
+7,f71ae286-9969-4f93-a119-5513aa1b5793,d33070f4-fe98-473e-83b4-44dcbc0027b7,2021-05-04 18:52:46 +0000 UTC,completed,"Medium 14"" Cheese Pizza",1/2 Sausage Side 1 ,,19.5,27.32,USD
+7,f71ae286-9969-4f93-a119-5513aa1b5793,d33070f4-fe98-473e-83b4-44dcbc0027b7,2021-05-04 18:52:46 +0000 UTC,completed,Grated Cheese,,,0.5,27.32,USD
+7,f71ae286-9969-4f93-a119-5513aa1b5793,d33070f4-fe98-473e-83b4-44dcbc0027b7,2021-05-04 18:52:46 +0000 UTC,completed,Grated Cheese,,,0.5,27.32,USD
+4d,25e66693-4c2a-48aa-9997-89e4109af31e,5322e6bb-41da-4ed6-8c79-85dd0b0ef8a1,2021-04-26 20:23:44 +0000 UTC,completed,4 Bones,,,15.07,50.7,USD
+4d,25e66693-4c2a-48aa-9997-89e4109af31e,5322e6bb-41da-4ed6-8c79-85dd0b0ef8a1,2021-04-26 20:23:44 +0000 UTC,completed,4 Bones,Mac N Cheese,,15.07,50.7,USD
+4d,25e66693-4c2a-48aa-9997-89e4109af31e,5322e6bb-41da-4ed6-8c79-85dd0b0ef8a1,2021-04-26 20:23:44 +0000 UTC,completed,Pork Sandwich,Baked Beans,,8.91,50.7,USD
+4d,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,b7ea523d-ddd6-4ee1-9ee1-c033e034a7ad,2021-04-24 18:08:47 +0000 UTC,completed,2 x 2 x 2,"2 Cage-Free Egg Whites, 2 Pork Sausage Links, 2 Original Buttermilk",,8.24,30.58,USD
+4d,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,b7ea523d-ddd6-4ee1-9ee1-c033e034a7ad,2021-04-24 18:08:47 +0000 UTC,completed,Split Decision Breakfast,"2 Scrambled Eggs with American Cheese, 2 Scrambled, 4 Hickory Smoked Bacon Strips, 2 Original Buttermilk",,10.99,30.58,USD
+7,6ba078e9-ed83-4628-915a-eb87b056f19b,fc39e764-773c-4c07-b71d-2d4a4288e594,2021-04-13 16:00:50 +0000 UTC,completed,4 Wings and Fries,"Honey BBQ Sauce, Mild Sauce, Cup Of Honey BBQ, Cup of Mild Sauce, Lemon Pepper",,9.49,19.62,USD
+4d,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,8d615e55-d8d4-4d17-bba5-b994c049e765,2021-04-11 18:21:10 +0000 UTC,completed,Split Decision Breakfast,"2 Scrambled, 4 Hickory Smoked Bacon Strips, 2 Original Buttermilk, 2 Scrambled Eggs with American Cheese",,10.77,22.55,USD
+7,3efac157-8d0e-4551-8ae1-2954a8a04f82,ae313075-09cc-464c-87d2-84d4e74a45d7,2021-04-03 20:47:09 +0000 UTC,completed,Tip and Wing Combo (4 Wings),Mild BBQ Sauce,,15.99,29.2,USD
+7,0749a156-93ec-4a43-bb28-c249d91c31f5,a00ff274-a59b-484b-8607-6e4943add093,2021-04-03 20:17:09 +0000 UTC,completed,Wings,4 Wings,,4.89,16.95,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,ad1aa9e8-ebfc-43a1-b64d-6d19dfdea155,2021-03-30 18:58:30 +0000 UTC,completed,Meat Lover Skillet,"Scrambled Medium, Cheddar Cheese, Buttermilk Pancakes, Bacon, Pork Sausage, Ham, Cheddar Cheese","No onions on meat lover skillet please. Bacon, sausage, ham, and cheddar cheese on hash browns only. ",12.99,43.47,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,ad1aa9e8-ebfc-43a1-b64d-6d19dfdea155,2021-03-30 18:58:30 +0000 UTC,completed,Bacon and Eggs,"Scrambled Medium, Buttermilk Pancakes, Meat Medium",,12.49,43.47,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,ad1aa9e8-ebfc-43a1-b64d-6d19dfdea155,2021-03-30 18:58:30 +0000 UTC,completed,Pork Sausage Patties and Eggs,"Scrambled Medium, Buttermilk Pancakes, Meat Well",,11.99,43.47,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,ad1aa9e8-ebfc-43a1-b64d-6d19dfdea155,2021-03-30 18:58:30 +0000 UTC,completed,Junior Plate with Bacon,"Buttermilk Pancakes, Meat Well",,8.24,43.47,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,ad1aa9e8-ebfc-43a1-b64d-6d19dfdea155,2021-03-30 18:58:30 +0000 UTC,completed,Grits,Small,,2.79,43.47,USD
+4d,b68ea90d-88c2-4fd9-8492-5f7719687c6d,c2de9341-088a-4a1b-bfa5-3195cbc3f578,2021-03-12 23:01:44 +0000 UTC,completed,Rice (GF) (V),,,2.75,28.88,USD
+4d,b68ea90d-88c2-4fd9-8492-5f7719687c6d,c2de9341-088a-4a1b-bfa5-3195cbc3f578,2021-03-12 23:01:44 +0000 UTC,completed,Al Pastor Tacos (GF),,,10.75,28.88,USD
+4d,b68ea90d-88c2-4fd9-8492-5f7719687c6d,c2de9341-088a-4a1b-bfa5-3195cbc3f578,2021-03-12 23:01:44 +0000 UTC,completed,Al Pastor Tacos (GF),,,10.75,28.88,USD
+4d,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,f605b01e-d1a9-4383-855e-ae5112c4a4d4,2021-03-12 17:02:49 +0000 UTC,completed,Split Decision Breakfast,"2 Scrambled Eggs with American Cheese, 2 Scrambled, 4 Hickory Smoked Bacon Strips, 2 Original Buttermilk",,10.77,31.63,USD
+4d,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,f605b01e-d1a9-4383-855e-ae5112c4a4d4,2021-03-12 17:02:49 +0000 UTC,completed,2 x 2 x 2,"2 Pork Sausage Links, 2 Original Buttermilk, 2 Scrambled Eggs with American Cheese, 2 Scrambled",,8.24,31.63,USD
+4d,59fc6681-97e1-4f73-bc01-64aecdddc09e,4f64d3a8-0fcf-418b-ad77-cf3e303b862b,2021-03-12 03:59:35 +0000 UTC,failed,20 Pc Spicy McNuggets and 2 Medium Fry,"Tangy BBQ Dipping Sauce, Salt, Ketchup Packet",,12.39,15.78,USD
+4d,59fc6681-97e1-4f73-bc01-64aecdddc09e,4f64d3a8-0fcf-418b-ad77-cf3e303b862b,2021-03-12 03:59:35 +0000 UTC,failed,Medium Hawaiian Punch,"Large Hawaiian Punch, Ice",,1.25,15.78,USD
+4d,59fc6681-97e1-4f73-bc01-64aecdddc09e,4f64d3a8-0fcf-418b-ad77-cf3e303b862b,2021-03-12 03:59:35 +0000 UTC,failed,Medium Coke®,"Ice, Large Coke®",,1.25,15.78,USD
+4d,da5972c5-f905-4e97-b90d-50eb61bbfe0b,e99f1991-6409-467b-adf0-531215730620,2021-03-06 20:45:27 +0000 UTC,completed,Pork Sandwich,No Slaw,,8.91,54.13,USD
+4d,da5972c5-f905-4e97-b90d-50eb61bbfe0b,e99f1991-6409-467b-adf0-531215730620,2021-03-06 20:45:27 +0000 UTC,completed,10 Bones,"Mac N Cheese, 2 oz BBQ Sauce",,35.62,54.13,USD
+4d,e11e08d5-c545-4af7-a406-d59fbab2c7da,3466d951-c44f-4ea2-9f0e-acd0dcdca50c,2021-02-23 17:08:30 +0000 UTC,completed,Half Dozen Donuts,"Glazed, Chocolate Glazed, Vanilla Frosted, 6 Donuts",,0,12.44,USD
+4d,e11e08d5-c545-4af7-a406-d59fbab2c7da,3466d951-c44f-4ea2-9f0e-acd0dcdca50c,2021-02-23 17:08:30 +0000 UTC,completed,Hash Browns,Hash Browns,,0,12.44,USD
+4d,e11e08d5-c545-4af7-a406-d59fbab2c7da,3466d951-c44f-4ea2-9f0e-acd0dcdca50c,2021-02-23 17:08:30 +0000 UTC,completed,Hash Browns,Hash Browns,,0,12.44,USD
+4d,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,38dae888-700d-4779-b231-9670896894d2,2021-02-14 19:28:44 +0000 UTC,completed,Split Decision Breakfast,"2 Original Buttermilk, 2 Scrambled Eggs with American Cheese, 2 Scrambled, 4 Hickory Smoked Bacon Strips",,9.79,22.11,USD
+4d,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,38dae888-700d-4779-b231-9670896894d2,2021-02-14 19:28:44 +0000 UTC,completed,2 x 2 x 2,"2 Scrambled, 2 Pork Sausage Links, 2 Original Buttermilk",,7.49,22.11,USD
+4d,5f59434b-8765-49e5-9ec0-fd177f4c7f2e,c001264d-6431-418e-aad3-fe88260936ef,2021-02-08 00:02:57 +0000 UTC,completed,Smoked Wings,"Chipotle Honey Sauce, Caribbean Jerk Dry Rub, Ranch Dressing, Curly Fries, 20 Smoked Wings",,0,56.41,USD
+4d,5f59434b-8765-49e5-9ec0-fd177f4c7f2e,c001264d-6431-418e-aad3-fe88260936ef,2021-02-08 00:02:57 +0000 UTC,completed,Hooters Original Style Wings,"BBQ Sauce, No Dressing, 10 Original Wings",,0,56.41,USD
+4d,2ac900af-12ad-46aa-9bc1-7960ab3261cc,1dee3fd7-ab21-466a-95d7-0efe6f4d2717,2021-02-03 21:30:42 +0000 UTC,completed,2 Cheeseburger Meal,"Salt, 2 Cheeseburger Meal Large, Ice, Large Coke®, Mustard, Ketchup, Diced Onions, Pickle, American Cheese, Meat, Regular Bun, Salt",,5.97,18.13,USD
+4d,2ac900af-12ad-46aa-9bc1-7960ab3261cc,1dee3fd7-ab21-466a-95d7-0efe6f4d2717,2021-02-03 21:30:42 +0000 UTC,completed,2 Cheeseburger Meal,"2 Cheeseburger Meal, Ice, Medium Coke®, Mustard, Ketchup, Diced Onions, Pickle, American Cheese, Meat, Regular Bun, Salt, Salt",,5.97,18.13,USD
+4d,5010dd17-3663-4075-9aeb-95dc88ab8cf4,5352c379-a13b-4a2c-a5d7-1fddf9cac406,2021-02-02 00:42:04 +0000 UTC,completed,Chicken Combo (3 Pcs),"Mild, Leg, Thigh & Wing, Reg Cajun Fries, Coca Cola®",,9.19,40.17,USD
+4d,5010dd17-3663-4075-9aeb-95dc88ab8cf4,5352c379-a13b-4a2c-a5d7-1fddf9cac406,2021-02-02 00:42:04 +0000 UTC,completed,Chicken Combo (4 Pcs),"Spicy, Reg Cajun Fries, Sprite®, Reg Mashed Potatoes with Cajun Gravy",,19.99,40.17,USD
+4d,6b97a050-0ec9-46bd-bc96-803a1c13b6a9,4917c78c-f8ad-4d93-94be-59d8d2987e67,2021-02-01 20:37:42 +0000 UTC,completed,Original Glazed® Dozen,,,12.89,21.13,USD
+4d,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,9ba0ccbf-4009-4532-82c6-bde98415f25e,2021-01-25 19:35:34 +0000 UTC,completed,2 x 2 x 2,"2 Scrambled, 2 Pork Sausage Links, 2 Original Buttermilk",,7.49,19.37,USD
+4d,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,9ba0ccbf-4009-4532-82c6-bde98415f25e,2021-01-25 19:35:34 +0000 UTC,completed,Split Decision Breakfast,"2 Scrambled Eggs with American Cheese, 2 Scrambled, 4 Hickory Smoked Bacon Strips, 2 Original Buttermilk",,9.79,19.37,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,7bb6d347-6757-4f0d-88f7-f4f6b849ef55,2021-01-21 17:21:34 +0000 UTC,completed,Pork Sausage Patties and Eggs,"Scrambled Medium, Buttermilk Pancakes, Meat Well",,11.99,18.97,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,7bb6d347-6757-4f0d-88f7-f4f6b849ef55,2021-01-21 17:21:34 +0000 UTC,completed,Grits,Small,,2.79,18.97,USD
+7,6ba078e9-ed83-4628-915a-eb87b056f19b,9460db90-e209-48a8-b7b6-c04d02bb01c4,2021-01-07 01:00:01 +0000 UTC,completed,12 oz. Can Pop,Pepsi,,1.29,14.27,USD
+7,6ba078e9-ed83-4628-915a-eb87b056f19b,9460db90-e209-48a8-b7b6-c04d02bb01c4,2021-01-07 01:00:01 +0000 UTC,completed,6 1/2 BBQ Wings Dinner,Honey BBQ,All flats lemon pepper and sauce on everything please.,9.99,14.27,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,7973596f-6b51-473c-81b8-a3cbebad5959,2021-01-05 17:29:29 +0000 UTC,completed,Pork Sausage Patties and Eggs,"Scrambled Medium, Buttermilk Pancakes, Meat Well",,11.99,19.97,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,7973596f-6b51-473c-81b8-a3cbebad5959,2021-01-05 17:29:29 +0000 UTC,completed,Grits,Small,,2.79,19.97,USD
+7,0749a156-93ec-4a43-bb28-c249d91c31f5,5dab0a6c-e238-4bb7-823a-d5fb1e34c488,2020-12-29 02:27:11 +0000 UTC,completed,Wings,4 Wings,Lemon pepper and extra mild sauce on everything ,4.89,24.1,USD
+7,0749a156-93ec-4a43-bb28-c249d91c31f5,5dab0a6c-e238-4bb7-823a-d5fb1e34c488,2020-12-29 02:27:11 +0000 UTC,completed,Wings,4 Wings,Lemon pepper and extra mild sauce on everything ,4.89,24.1,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,f58ad5d0-c7d7-4f52-ba18-cc5dbb5ef4c0,2020-12-15 19:12:25 +0000 UTC,completed,Grits,Small,,2.79,83.01,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,f58ad5d0-c7d7-4f52-ba18-cc5dbb5ef4c0,2020-12-15 19:12:25 +0000 UTC,completed,Bacon and Eggs,"Scrambled Medium, Buttermilk Pancakes, Meat Medium",,12.49,83.01,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,f58ad5d0-c7d7-4f52-ba18-cc5dbb5ef4c0,2020-12-15 19:12:25 +0000 UTC,completed,Pork Sausage Patties,Meat Well,,4.79,83.01,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,f58ad5d0-c7d7-4f52-ba18-cc5dbb5ef4c0,2020-12-15 19:12:25 +0000 UTC,completed,Bacon and Eggs,"Scrambled Medium, Buttermilk Pancakes, Meat Medium",,12.49,83.01,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,f58ad5d0-c7d7-4f52-ba18-cc5dbb5ef4c0,2020-12-15 19:12:25 +0000 UTC,completed,Junior Plate with Bacon,"Buttermilk Pancakes, Meat Well",,8.24,83.01,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,f58ad5d0-c7d7-4f52-ba18-cc5dbb5ef4c0,2020-12-15 19:12:25 +0000 UTC,completed,Bacon and Eggs,"Scrambled Medium, Buttermilk Pancakes, Meat Well",,12.49,83.01,USD
+7,44e673ce-b471-44c7-bca1-22c4ab3abbe0,f58ad5d0-c7d7-4f52-ba18-cc5dbb5ef4c0,2020-12-15 19:12:25 +0000 UTC,completed,Meat Lover Skillet,"Scrambled Medium, Cheddar Cheese, Buttermilk Pancakes, Bacon, Pork Sausage, Ham, Cheddar Cheese","No onions on meat lover skillet please. Bacon, sausage, ham, and cheddar cheese on hash browns only. ",12.99,83.01,USD
+4d,5010dd17-3663-4075-9aeb-95dc88ab8cf4,caf7f55c-0c9f-45b0-a693-98575f19f2dd,2020-11-22 00:39:10 +0000 UTC,completed,Chicken Combo (4 Pcs),"Spicy, Reg Cajun Rice, Medium Sprite®",,19.99,29.34,USD
+4d,5010dd17-3663-4075-9aeb-95dc88ab8cf4,caf7f55c-0c9f-45b0-a693-98575f19f2dd,2020-11-22 00:39:10 +0000 UTC,completed,Classic Chicken Sandwich Combo,"Reg Cajun Fries, Dr. Pepper®",,7.99,29.34,USD
+4d,56d23630-6277-4201-a140-49fb901f46c4,869333d4-e12d-4fb4-924a-54528287bd85,2020-11-14 02:41:07 +0000 UTC,completed,Signature Slushes,"Strawberry Lemonade, Mango Peach Lemonade",,4.24,79.43,USD
+4d,56d23630-6277-4201-a140-49fb901f46c4,869333d4-e12d-4fb4-924a-54528287bd85,2020-11-14 02:41:07 +0000 UTC,completed,Fridays Big Ribs Whiskey-Glazed,"Seasoned Fries, Lemon-Butter Broccoli & Cheese, Mashed Potatoes, Coleslaw",,26.09,79.43,USD
+4d,56d23630-6277-4201-a140-49fb901f46c4,869333d4-e12d-4fb4-924a-54528287bd85,2020-11-14 02:41:07 +0000 UTC,completed,Fridays Big Ribs Apple Butter BBQ ,"Seasoned Fries, Lemon-Butter Broccoli, Coleslaw, Lemon-Butter Broccoli",,24.71,79.43,USD
+4d,56d23630-6277-4201-a140-49fb901f46c4,869333d4-e12d-4fb4-924a-54528287bd85,2020-11-14 02:41:07 +0000 UTC,completed,Signature Slushes,"Strawberry Lemonade, Cherry Limeade",,4.24,79.43,USD
+4d,56d23630-6277-4201-a140-49fb901f46c4,869333d4-e12d-4fb4-924a-54528287bd85,2020-11-14 02:41:07 +0000 UTC,completed,Mozzarella Sticks,Marinara Sauce,,10.45,79.43,USD
+4d,6b97a050-0ec9-46bd-bc96-803a1c13b6a9,6aa279cf-2bf0-4cdc-bf94-62b3cf1c6bf2,2020-11-13 19:39:54 +0000 UTC,completed,Original Glazed® Dozen,,,12.89,21.63,USD
+4d,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,c4369ff1-4155-4e94-b26f-753ce70738f5,2020-09-19 17:36:44 +0000 UTC,completed,Pork Sausage Links,4 Pork Sausage Links,,2.19,27.23,USD
+4d,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,c4369ff1-4155-4e94-b26f-753ce70738f5,2020-09-19 17:36:44 +0000 UTC,completed,Split Decision Breakfast,"2 Scrambled, 4 Hickory Smoked Bacon Strips, 2 Original Buttermilk",,9.79,27.23,USD
+4d,c6b7934d-54d1-4fc3-81a6-26ccf01c7d62,c4369ff1-4155-4e94-b26f-753ce70738f5,2020-09-19 17:36:44 +0000 UTC,completed,2 x 2 x 2,"2 Over Medium*, 2 Hickory-Smoked Bacon Strips, 2 Original Buttermilk",,7.49,27.23,USD
+7,1c761396-a043-4a74-9807-18b0de5dfc4b,31bc252e-b04b-4897-a99a-c59d8a645c0c,2020-08-08 07:27:51 +0000 UTC,completed,Double Cheeseburger,"Mustard, Ketchup, Diced Onions, Pickle, American Cheese, Meat, Salt, Regular Bun",,3.09,19.22,USD
+7,1c761396-a043-4a74-9807-18b0de5dfc4b,31bc252e-b04b-4897-a99a-c59d8a645c0c,2020-08-08 07:27:51 +0000 UTC,completed,6 Piece McNuggets,Tangy BBQ Dipping Sauce,,2.2,19.22,USD
+7,1c761396-a043-4a74-9807-18b0de5dfc4b,31bc252e-b04b-4897-a99a-c59d8a645c0c,2020-08-08 07:27:51 +0000 UTC,completed,6 Piece McNuggets,Sweet N Sour Dipping Sauce,,2.2,19.22,USD
+7,1c761396-a043-4a74-9807-18b0de5dfc4b,31bc252e-b04b-4897-a99a-c59d8a645c0c,2020-08-08 07:27:51 +0000 UTC,completed,Medium French Fries,"Salt, Small French Fries",,3.19,19.22,USD
+7,1c761396-a043-4a74-9807-18b0de5dfc4b,31bc252e-b04b-4897-a99a-c59d8a645c0c,2020-08-08 07:27:51 +0000 UTC,completed,Medium French Fries,"Salt, Small French Fries",,3.19,19.22,USD
+7,1c761396-a043-4a74-9807-18b0de5dfc4b,31bc252e-b04b-4897-a99a-c59d8a645c0c,2020-08-08 07:27:51 +0000 UTC,completed,Medium French Fries,"Salt, Small French Fries",,3.19,19.22,USD
+4d,8ba6aaa3-1a0f-409c-984e-a0fd51d7461a,27864636-dbc1-47b6-a2b1-4def13e84bae,2020-05-16 21:55:40 +0000 UTC,completed,Pork Rib Tips,"Mac and Cheese, Baked Beans, Original, Bun",,11.5,32.25,USD
+4d,8ba6aaa3-1a0f-409c-984e-a0fd51d7461a,27864636-dbc1-47b6-a2b1-4def13e84bae,2020-05-16 21:55:40 +0000 UTC,completed,Pork Rib Tips,"Small, Mac and Cheese, Yams, Original, Bun, Original Sauce (1/10)",,11.5,32.25,USD
+4d,8ba6aaa3-1a0f-409c-984e-a0fd51d7461a,27864636-dbc1-47b6-a2b1-4def13e84bae,2020-05-16 21:55:40 +0000 UTC,completed,Fruit Punch,Small,,2.25,32.25,USD
+7d,5c2c4b81-9d60-46c0-a405-fc8756a2b587,b03d6fc6-da38-4040-8508-cde4f92522c0,2019-12-16 03:49:20 +0000 UTC,completed,Bone-In Wings (20),"HONEY BBQ, BBQ",,19.99,21.19,USD
+7d,5c2c4b81-9d60-46c0-a405-fc8756a2b587,a23882a7-ecb2-4cf4-a4c1-643c19e5f655,2019-10-29 02:52:58 +0000 UTC,completed,Bone-In Wings (20),"HONEY BBQ, BBQ",,19.99,41.19,USD
+7d,5c2c4b81-9d60-46c0-a405-fc8756a2b587,a23882a7-ecb2-4cf4-a4c1-643c19e5f655,2019-10-29 02:52:58 +0000 UTC,completed,Chicken Tender (7-8),,,11.99,41.19,USD
+4d,753a56a0-3b11-4894-a622-82316ba8fcf1,22d05f82-9e11-42b9-83bb-edfc0663978e,2019-07-17 22:06:14 +0000 UTC,completed,Small French Fries,,,1.79,14.2,USD
+4d,753a56a0-3b11-4894-a622-82316ba8fcf1,22d05f82-9e11-42b9-83bb-edfc0663978e,2019-07-17 22:06:14 +0000 UTC,completed,Double Cheese Slider,,No Onions ,1.79,14.2,USD
+4d,753a56a0-3b11-4894-a622-82316ba8fcf1,22d05f82-9e11-42b9-83bb-edfc0663978e,2019-07-17 22:06:14 +0000 UTC,completed,Double Cheese Slider,,No Onions ,1.79,14.2,USD
+4d,753a56a0-3b11-4894-a622-82316ba8fcf1,22d05f82-9e11-42b9-83bb-edfc0663978e,2019-07-17 22:06:14 +0000 UTC,completed,Mozzarella Cheese Sticks (5) with marinara sauce,,,2.99,14.2,USD
+4d,753a56a0-3b11-4894-a622-82316ba8fcf1,22d05f82-9e11-42b9-83bb-edfc0663978e,2019-07-17 22:06:14 +0000 UTC,completed,Cheese Slider,,No Onions ,0.91,14.2,USD
+4d,753a56a0-3b11-4894-a622-82316ba8fcf1,22d05f82-9e11-42b9-83bb-edfc0663978e,2019-07-17 22:06:14 +0000 UTC,completed,Cheese Slider,,No Onions ,0.91,14.2,USD

@@ -1,0 +1,25 @@
+Profile Type,Bank/Issuer Name,Payment Method Brand,Payment Method Type,Used For Collections,Used For Disbursements,Is the Latest Version,Not Payable,Billing Country,Country,Region,Deleted At
+BANK_CARD,University of Michigan Credit Union,VISA,DEBIT,true,false,true,false,US,United States,US & Canada,""
+BANK_CARD,University of Michigan Credit Union,VISA,DEBIT,true,false,false,false,US,United States,US & Canada,""
+BANK_CARD,University of Michigan Credit Union,VISA,DEBIT,true,false,true,false,US,United States,US & Canada,2020-11-13T16:38:16.229Z
+BANK_CARD,Metabank,VISA,PREPAID,true,false,true,false,US,United States,US & Canada,""
+BANK_CARD,"Chase Bank USA, National Association",VISA,CREDIT,true,false,false,false,US,United States,US & Canada,""
+BANK_CARD,"Chase Bank USA, National Association",VISA,CREDIT,true,false,true,false,US,United States,US & Canada,2020-11-13T20:28:00.904Z
+BANK_CARD,"Chase Bank USA, National Association",VISA,CREDIT,true,false,false,false,US,United States,US & Canada,""
+BANK_CARD,"Chase Bank USA, National Association",VISA,CREDIT,true,false,true,false,US,United States,US & Canada,2020-11-13T18:41:13.002Z
+BANK_CARD,University of Michigan Credit Union,VISA,DEBIT,true,false,true,false,US,United States,US & Canada,""
+BANK_CARD,SUNTRUST BANK,MASTERCARD,CREDIT,true,false,true,false,US,United States,US & Canada,""
+BANK_CARD,Metabank,VISA,PREPAID,true,false,false,false,US,United States,US & Canada,""
+BANK_CARD,Metabank,VISA,PREPAID,true,false,false,false,US,United States,US & Canada,""
+BANK_CARD,Metabank,VISA,PREPAID,true,false,true,false,US,United States,US & Canada,""
+BANK_CARD,"",DISCOVER,CREDIT,true,false,false,false,US,United States,US & Canada,""
+BANK_CARD,"",DISCOVER,CREDIT,true,false,true,false,US,United States,US & Canada,""
+STORED_VALUE,"","","",true,false,false,false,"","","",""
+STORED_VALUE,"","","",true,false,false,false,"","","",""
+STORED_VALUE,"","","",true,false,true,false,"","","",""
+APPLE_PAY_DISPLAY,"","","",true,false,true,false,"","","",""
+DERIVATIVE,"","","",true,false,true,false,"","","",""
+APPLE_PAY,"",APPLE PAY DISCOVER,"",true,false,false,false,"","","",""
+APPLE_PAY,"",APPLE PAY DISCOVER,"",true,false,false,false,"","","",""
+APPLE_PAY,"",APPLE PAY DISCOVER,"",true,false,true,false,"","","",""
+APPLE_PAY,"",APPLE PAY VISA,"",true,false,true,false,"","","",""

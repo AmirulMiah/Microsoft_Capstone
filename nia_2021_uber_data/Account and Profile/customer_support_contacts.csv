@@ -1,0 +1,10 @@
+Trip Request Time,Create Ticket Time,Trip Unique User ID,Ticket Status,Channel,City,Country,Product Name,Is CSR Ticket,Locale,Modality,Requester Type,Requester Unique User ID
+2021-04-03 19:42:13,2021-04-03 20:19:35,d3b0b922-e4a5-4119-a668-cdc61d15cabf,archived,system,7,US,UberEATS Marketplace (order),false,en_US,messaging,eater,2e54a6af-e134-4748-a76a-572257013f56
+2021-04-03 19:42:13,2021-04-03 20:19:15,d3b0b922-e4a5-4119-a668-cdc61d15cabf,solved,system,7,US,UberEATS Marketplace (order),false,en_US,messaging,eater,2e54a6af-e134-4748-a76a-572257013f56
+2021-04-03 19:42:13,2021-04-03 20:19:04,d3b0b922-e4a5-4119-a668-cdc61d15cabf,archived,system,7,US,UberEATS Marketplace (order),false,en_US,chat,eater,2e54a6af-e134-4748-a76a-572257013f56
+,2021-03-30 03:10:44,,open,system,7,US,,false,en_US,messaging,client,2e54a6af-e134-4748-a76a-572257013f56
+2021-02-02 00:15:43,2021-02-02 00:45:01,cdea1c56-4f8b-4239-baf2-920775a88476,archived,system,141,US,UberEATS Marketplace (order),false,en_US,messaging,eater,2e54a6af-e134-4748-a76a-572257013f56
+2021-02-02 00:15:43,2021-02-02 00:44:34,cdea1c56-4f8b-4239-baf2-920775a88476,solved,system,141,US,UberEATS Marketplace (order),false,en_US,messaging,eater,2e54a6af-e134-4748-a76a-572257013f56
+2020-12-15 18:38:30,2020-12-15 21:04:10,79d651bc-8c43-5d98-9753-789b69e37067,archived,inapp,7,US,UberEATS Marketplace (delivery),false,en_US,messaging,eater,2e54a6af-e134-4748-a76a-572257013f56
+2019-01-27 17:59:24,2019-01-28 23:33:15,44fc0692-225d-11e9-86e2-246e9640fd58,archived,inapp,237,US,UberX,false,en_US,messaging,client,2e54a6af-e134-4748-a76a-572257013f56
+2018-10-06 23:36:41,2018-10-08 04:56:16,7a016b82-8f1f-4451-bca2-80e8dd7e2284,archived,web,237,US,UberX,false,en_US,messaging,client,2e54a6af-e134-4748-a76a-572257013f56
